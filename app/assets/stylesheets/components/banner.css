@@ -1,0 +1,16 @@
+.jumbotron{
+	height: 720px;
+	background-image: url(https://s8.postimg.cc/vaw4pv1dx/htmlcss.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%, 100%;
+	border-radius: 0 !important;
+	opacity:0.75;
+}
+.display-4{
+	text-align: center;
+	color: #2E4053;
+}
+
+.jumbotron p{
+	color:#ECF0F1;
+}
