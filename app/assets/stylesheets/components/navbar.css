@@ -1,0 +1,8 @@
+nav{
+	background: rgb(255,89,0);
+    background: linear-gradient(90deg, rgba(255,122,4,1) 0%, rgba(254,108,30,1) 45%, rgba(255,93,54,1) 100%);
+}
+nav a:hover{
+    background: linear-gradient(90deg, rgba(255,113,0,1) 0%, rgba(255,255,255,1) 50%, rgba(255,113,0,1) 100%);
+	color: #2E4053 !important;
+}

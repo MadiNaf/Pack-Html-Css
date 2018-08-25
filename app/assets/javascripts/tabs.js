@@ -19,5 +19,40 @@ $(document).ready(function(){
     });
 });
 //css doc
+$(document).ready(function(){
+	$(".card").hide();
+    $(".css-doc").click(function(){
+        $(".card-css-doc").toggle();
+    });
+});
 //css video
+$(document).ready(function(){
+    $(".css-video").click(function(){
+        $(".card-css-vdo").toggle();
+    });
+});
 //css autre
+$(document).ready(function(){
+    $(".css-autre").click(function(){
+        $(".card-css-otre").toggle();
+    });
+});
+//btsp doc
+$(document).ready(function(){
+	$(".card").hide();
+    $(".btsp-doc").click(function(){
+        $(".card-btsp-doc").toggle();
+    });
+});
+//btsp video
+$(document).ready(function(){
+    $(".btsp-video").click(function(){
+        $(".card-btsp-vdo").toggle();
+    });
+});
+//btsp autre
+$(document).ready(function(){
+    $(".btsp-autre").click(function(){
+        $(".card-btsp-otre").toggle();
+    });
+});

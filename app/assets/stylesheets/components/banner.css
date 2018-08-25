@@ -1,11 +1,11 @@
 .jumbotron{
 	height: 720px;
-	background-image: url(https://s8.postimg.cc/vaw4pv1dx/htmlcss.jpg);
-	background-repeat: no-repeat;
-	background-size: 100%, 100%;
+	background-size: cover;
+	background-image: linear-gradient(90deg, rgba(255,122,4,0.2) 0%, rgba(254,108,30,0.2) 45%, rgba(255,93,54,0.2) 100%), url(https://s8.postimg.cc/vaw4pv1dx/htmlcss.jpg) ;
+	opacity: 0.85;
 	border-radius: 0 !important;
-	opacity:0.75;
 }
+
 .display-4{
 	text-align: center;
 	color: #2E4053;
